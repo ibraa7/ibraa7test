@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv de ahmed tounsi</title>
+</head>
+<body>
+    <header>
+    <h1> cv ahmed tounsi</h1>
+    <div><figcaption><img src="web 1/images/homme.jpg" width="150px"></figcaption></div>
+     </header>
+        <section>
+    <article title="mes coordonnees">
+        <h2> <em>mes coordonnes </em></h2>
+        <article title= "mes coordonnées" id="mes coordonees">
+Ahmed TOUNSI <br>
+Département technologies de l'informatique <br>
+ISET de Sfax - Route de Mahdia Km 2.5 BP 88 A - 3099 Sfax ; <br> Tel: 74 431 425 ; <br> Fax: 74 431 386 ; <br>
+Email: isetsfaisetsf.net.
+        </article>
+    </article>
+    <hr>
+   
+ 
+    <article title="mes formations" id="mes diplomes">
+
+        <h2> <em>mes formations </em> </h2>
+        <ul>
+            <li> <strong> 2008-2012 </strong> : <mark> Doctorat en informatique de l'université Tunis-ElManar </mark></li>
+            <br>
+            <li> <strong>2005-2008 </strong> : <mark> Master de recherche NTIC (Nouvelles Technologies de information et de la communication) -
+Université Tunis-EManar </mark></li>
+<br>
+            <li> <strong>2001-2005 </strong>: <mark> Maitrise en informatique - Université Tunis-ElManar </mark></li>
+            <br>
+            <li><strong> 2000-2001 </strong>: <mark> Baccalauréat Math - Lycée Ibn Khouldoun - Tunis </mark></li>
+        </ul>
+    </article>
+    <article title="mes activites professionnelles" id="mes acivites professionnelles">
+        <h2><em>mes activites professionnelles </em></h2>
+        <strong>2D13 </strong>-présent : Maitre assistant d'informatique - ISET de Sfax
+         <br>
+         <strong>2010-2013 </strong>: Technologue d'informatique - ISET de Sfax 
+         <br>
+         <strong>2008-2010 </strong>: Assistant Technologue d'informatique - ISET de Rades
+          <br>
+         <strong>2006-2008 </strong>: Professeur d'enseignement secondaire Lycée Ibn Khouldoun - Tunis 
+    </article>
+    <ol type="I">
+      <li> <strong> 2008-2012 </strong> : <mark> Doctorat en informatique de l'université Tunis-ElManar </mark></li>
+            <br>
+            <li> <strong>2005-2008 </strong> : <mark> Master de recherche NTIC (Nouvelles Technologies de information et de la communication) -
+Université Tunis-EManar </mark></li> 
+    </ol>
+    <ol start="2">
+       <li> <strong>2001-2005 </strong>: <mark> Maitrise en informatique - Université Tunis-ElManar </mark></li>
+            <br>
+            <li><strong> 2000-2001 </strong>: <mark> Baccalauréat Math - Lycée Ibn Khouldoun - Tunis </mark></li>  
+    </ol>
+        <article title="mes stages" id="mes stages ">
+        <h2> <em>mes stages </em></h2>
+        <dl>
+            <dt>stage de perfectionnement</dt>
+            <dd>Lieu : SAFF (Société Agricole Fendri et Fils)
+Activités : Conception et réalisation d'un programme de gestion de stock, de facturation et paie.</dd>
+        </dl>
+        <dt>stage d initiation</dt>
+        <dd>Lieu : CIC (compagnie Internationale de commerce).
+Activités: Maintenance du système informatique (Branchement des périphériques, formatage,
+diagnostique,etc)</dd>
+    </article>
+    <article title="langeus">
+        <h2>Mes langues</h2>
+        <table border="2">
+            <tr>
+                <th colspan="2">langes vivantes</th>
+            </tr>
+            <tr>
+                <td>lengue</td>
+                <td>niveau</td>
+            </tr>
+            <tr>
+                <td>arabe</td>
+                <td>langue matrenelle</td>
+            </tr>
+            <tr>
+                <td>francais</td>
+                <td rowspan="2">lu,ecrit,parle</td>
+            </tr>
+            <tr><td>anglais</td></tr>
+        </table>
+    </article>
+    <article title="contact">
+        <h2><strong> contact </strong></h2>
+        <img src="Capture d'écran 2026-09-23 183648.png" alt="" height="50px" width="50px">
+         <img src="Capture d'écran 2026-09-23 184442.png" alt="" height="50px" width="50px">
+         <img src="Capture d'écran 2026-09-23 185019.png" alt="" width="50px" height="50px">
+        <br>
+        <a href="http://www.facebook.com/ahmed.tounsi">fac contact</a> /
+        <a href="http://tweeter.com/ahmed.tounsi">tw contact</a>/
+        <a href="http://www.linkedin/pub/ahmed-tounsi">link contact</a>
+    </article>
+    </section>
+    Madeline Bridge disait : <q> Give to the world the best that you have and the best come back to you</q>
+</body>
+</html>
