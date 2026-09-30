@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <legend>conatctez-moi</legend>
+        <div><label for="">civilite :</label><span>Monsieur</span><input type="radio"><input type="radio"><span>Madame</span><input type="radio"><span>Mademoiselle</span></div>
+        <div><label for="">Nom</label><input type="text" placeholder="votre nom"><label for="">Prenom</label><input type="text" placeholder="votre prenom"></div>
+        <div><label for="">Email :</label><input type="email" placeholder="votre e-mail"><label for="">telephone :</label><input type="tel" placeholder="votre telephone"></div>
+        <div><label for="">Sujet :</label><input type="text" placeholder="votre dujet" name="" id=""></div>
+        <div><label for="">Message :</label><br>
+        <textarea name="" id=""></textarea></div>
+        <div><input type="submit" value="Envoyer"><input type="reset" value="Annuler" name="" id=""></div>
+    </fieldset>
+</body>
+</html>
