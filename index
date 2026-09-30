@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="cv.html">Mon cv</a></li>
+            <li><a href="ahmed.over-blog.com">Mon blog</a></li>
+            <li><a href="contact.html">Contacts</a></li>
+        </ul>
+    </nav>
+    <header><img src="bannière.jpg" alt=""></header>
+    <section>
+        <article><img src="ico_epingle.png" alt=""><h1>Bienvenue sur ahmedtounsi.com !</h1> <h1>À propos de Ahmed</h1><p>C est un site personnel qui contientmon cv;un resume de mes projtes deja traites durant mes etudes univestaires et ma vie professionnelle</p><p>Ce site contient aussi des cours d informatique et des exercicess portant sur des modules divers:</p> <li>le systeme d exloitaion</li><li>les resaux informatiques</li><li>programmation Web 1 et 2</li><li>Elements multiledia (image,son et vedeo)</li><li>algorthmique et programmation</li><li>etc...</li></ul><p>Ce site contient auusi un lien vers <a href="contact.html">mon blog de communicatio</a>n qui contient divers articles aiui peuvent offrirle puls pour les internautes dans pllusieurs domaines(informatique,cultures,etc) <video src="" controls poster="poster.jpg"> <source src="" type="vido/mp4"></video></p>
+        <ul></article>
+        <aside>
+            <h1>A propos de Ahmed</h1>
+            <img src="homme.jpg" alt="">
+            <p>je m appelle Ahmed tounsi,je suis ne le 25 mai 1983</p>
+            <p>je suis ingenieur et docteur en informatique.je suis doue de l informatique et tres interesse par les nouvelle technologies</p>
+        </aside>
+    </section>
+    <hr>
+    <footer>Ahmed Tounsi 2026</footer>
+</body>
+</html>
